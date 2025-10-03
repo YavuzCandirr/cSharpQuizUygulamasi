@@ -1,0 +1,14 @@
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\bin\Debug\net8.0\QuizUygulamsıC#.exe
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\bin\Debug\net8.0\QuizUygulamsıC#.deps.json
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\bin\Debug\net8.0\QuizUygulamsıC#.runtimeconfig.json
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\bin\Debug\net8.0\QuizUygulamsıC#.dll
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\bin\Debug\net8.0\QuizUygulamsıC#.pdb
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\obj\Debug\net8.0\QuizUygulamsıC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\obj\Debug\net8.0\QuizUygulamsıC#.AssemblyInfoInputs.cache
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\obj\Debug\net8.0\QuizUygulamsıC#.AssemblyInfo.cs
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\obj\Debug\net8.0\QuizUygulamsıC#.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\obj\Debug\net8.0\QuizUygulamsıC#.dll
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\obj\Debug\net8.0\refint\QuizUygulamsıC#.dll
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\obj\Debug\net8.0\QuizUygulamsıC#.pdb
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\obj\Debug\net8.0\QuizUygulamsıC#.genruntimeconfig.cache
+C:\Users\yavuz\Desktop\c# udemy\QuizUygulamsıC#\QuizUygulamsıC#\obj\Debug\net8.0\ref\QuizUygulamsıC#.dll
