@@ -38,6 +38,4 @@
 3. Konsolda soruları yanıtlayın  
 4. Doğru/yanlış cevaplar ve toplam skor ekranda görüntülenecek  
 
----
 
-## 💻 Örnek Çalışma
